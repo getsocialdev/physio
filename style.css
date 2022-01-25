@@ -1,0 +1,97 @@
+/*
+Theme Name: Physio : Advantage Sports & Medicine Physioyherapy
+Description: It is Advantage Sports & Medicine Physioyherapy Website.
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: responsive-layout, custom-menu, editor-style, featured-images
+*/
+
+.disclaimerBox {
+	height: 100px;
+	overflow: scroll;
+	width: 100%;
+    font-size: 14px;
+    border: 1px solid #000;
+    padding: 10px;
+	box-sizing: border-box;
+}
+
+.width-3 {
+	width: 52% !important;
+}
+
+.treatment-grid-category-item {
+    height: 535px;
+}
+
+.treatment-grid-category-item > a > h4 {
+    margin-top: -50px;
+    margin-left: 20px;
+    color: white;
+    position: absolute;
+}
+
+.treatment-grid-category > .treatment-grid-category-item > a:hover > h4{
+    color: white;
+}
+
+.treatment-grid-category > .treatment-grid-category-item > a {
+    position: absolute;
+}
+
+.treatment-grid-category > .treatment-grid-category-item > a > img {
+    height: 520px;
+    filter: brightness(0.5);
+}
+
+.form-right > input[type="date"] {
+	background: black;
+	border: none;
+}
+
+@media only screen (min-width: 429px) and (max-width: 768px) {
+    .treatment-grid-category > .treatment-grid-category-item > a > img {
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 428px) {
+	.treatment-grid-category-item {
+		height: 30rem;
+	}
+	.treatment-grid-category-item > a > h4 {
+		margin-left: 20px;
+		color: white;
+		position: relative;
+	}
+	.treatment-grid-category > .treatment-grid-category-item > a {
+		position: relative;
+	}
+	.treatment-grid-category > .treatment-grid-category-item > a > img {
+        height: 28rem;
+    }
+	
+	.banner-heading h1.heading, .h1 {
+		font-size: 3rem;
+	}
+	.section-heading h2.heading, h2 {
+		font-size: 3rem;
+	}
+	h1 {
+		font-size: 4rem;
+	}
+	.location-info > .wpb_wrapper > a {
+		font-size: 20px;
+	}
+	
+	.wpcf7-exclusive-checkbox > .wpcf7-list-item > label > .wpcf7-list-item-label {
+		padding-left: 4px;
+	}
+}
+
+.treatment-grid-category > .treatment-grid-category-item > a:hover {
+    position: absolute;
+    transform: scale(1.1);
+	z-index: 999;
+}

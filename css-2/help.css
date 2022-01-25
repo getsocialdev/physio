@@ -1,0 +1,14 @@
+.p-t-0{padding-top:0px;}
+.p-b-0{padding-bottom: 0px;}
+.white-text, .bg-dark{color: #ffffff;}
+.dark-bg{background-color: #0d1221;color: #ffffff;}
+.white-text .h-title, .dark-bg .h-title, .bg-dark .service-title{color: #ffffff;}
+.white-text .section-heading .heading, .dark-bg .section-heading .heading{color: #ffffff;}
+.font-black{font-weight: 800;}
+.font-bold{font-weight: 700;}
+.font-regular{font-weight: 400;}
+.font-medium{font-weight: 500;}
+.font-semibold{font-weight: 600;}
+.white-text a{color:#ffffff;}
+.white-text a:hover{color: #4fa699;}
+.white-text .page-menu li{border-color:#ffffff;}

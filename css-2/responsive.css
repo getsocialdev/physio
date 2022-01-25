@@ -1,0 +1,203 @@
+@media (max-width: 1200px){
+.teams-grid .team-title {font-size: 24px;}
+}
+@media (max-width: 1024px){
+.contact-form .contact-heading{font-size:25px;}
+.contact-form .large-text{font-size: 20px;}
+.contact-form .form-control {font-size: 18px;padding: 6px 0;}
+.contact-form .wpcf7-submit{font-size:18px;}
+.hero-section .hero-heading, .h-title, .small-heading .h-title{font-size: 32px;}
+.large-heading, .section-heading.large-heading .heading, .large-title .h-title{font-size: 38px;}
+.home-services .service-title{font-size:25px;}
+.btn-lg {font-size: 20px;}
+.main-header .main-logo img {height: 40px;}
+header.main-header{padding:10px 0;}
+.banner-heading .heading{font-size:42px;}
+.banner-heading .heading:after{height:40%;}
+.banner-sheading {font-size: 26px;margin: 20px 0 20px;}
+.page-menu li a{font-size:32px;}
+.testimonial-slider .slick-prev:before, .testimonial-slider .slick-next:before {font-size: 18px;}
+.testimonial-block.tes-style1 .tes-item .tes-text, .testimonial-block.tes-style3 .tes-item .tes-text{font-size:24px;}
+.treatment-grid.style-2 .treatment-item:nth-child(7n+2) {height: 280px;}
+.treatment-grid.style-2 .treatment-item:nth-child(7n+3) {height: 280px;}
+.treatment-grid.style-2 .treatment-item {height: 360px;}
+.treatment-item .name {font-size: 24px;}
+.blog-grid .blog-header .blog-title{font-size:20px;}
+.blog-grid .blog-header .blog-type{font-size:15px;font-weight: 700;}
+.testimonial-slider .slick-prev, .testimonial-slider .slick-next {width: 20px;height: 20px;}
+.teams-grid .team-item {width: 33.33%;}
+.teams-filter .btn-filter, ul.nav-filter a{    padding: 6px 12px;font-size: 16px;}
+.team-single .team-name {font-size: 30px;}
+.team-single .team-desc  iframe{width:100%;height:auto;}
+.main-header .menu-link {
+	margin-top: 0px;
+}
+}
+@media (max-width: 991px){
+.hero-section .hero-content{padding: 5px 0 45px;}
+.btn-block{max-width: 450px;margin: 0 auto;}
+.btn-lg {font-size: 18px;}
+.number-box{display: inline-block;width: 25%;padding: 0 8px;}
+.number-counter{margin:0px;}
+.number-counter h3{font-size:40px;}
+.btn-lg {font-size: 18px;}
+.home-services .service-item{min-height:400px;}
+.home-services .service-title {font-size: 20px;padding: 15px;}
+.section-btn-50{width:100%;padding-top:35px;}
+.copyright .copy-left, .top-b-left{width:65%;}
+.copyright .copy-right, .top-b-right{width:35%;}
+.testimonial-block{margin: 0 15px 15px 15px;}
+.testimonial-block.tes-style1{padding-bottom: 20px}
+.testimonial-block.tes-style1 .tes-item {padding-left: 45px;}
+.testimonial-block.tes-style1 .tes-item::before {background-size: 30px auto;width: 32px;height: 32px;}
+.testimonial-block .tes-author{margin: 15px 0 0; font-size: 20px;}
+.testimonial-block.tes-style2 .tes-item .tes-text {font-size: 20px;}
+.testimonial-block.tes-style1 .tes-item .tes-text, .testimonial-block.tes-style3 .tes-item .tes-text{font-size:26px;}
+.testimonial-block.tes-style3 .tes-item::after {background-size: 30px auto;width: 32px;height: 32px;right: 0;}
+.vc-padding {padding-top: 35px !important;padding-bottom: 35px;}
+.copyright .copy-left{font-size:15px;}
+.banner-heading .heading {font-size: 32px;padding:0 8px 2px}
+.banner-heading{margin:15px 0;}
+.banner-sheading {font-size: 22px;margin: 10px 0 10px;}
+.page-menu li a {font-size: 28px;}
+.small-heading .h-title {font-size: 28px;}
+.large-text {font-size: 22px;}
+.approach-item{width: calc(50% + 40px);font-size:16px;}
+.approach-desc{padding: 0 20px;}
+.content-sidebar .page-sidebar{width:30%;}
+.content-sidebar .primery-block{width:70%;}
+.main-navigation{width:300px;right:-300px;}
+.main-navigation .menu-wrapper{margin:0 20px;}
+.site-navigation ul.main-menu>li{font-size: 26px;}
+.site-navigation .dropdown-menu{width: 280px;right:265px;font-size:22px;padding: 55px 20px 20px 20px;}
+.open>.dropdown-menu {right: 275px;}
+.main-navigation .nav-topbar{padding-top: 20px;padding-bottom: 5px;}
+
+}
+
+@media (max-width: 767px){
+.treatment-grid .treatment-item.width2, .treatment-grid .treatment-sizer, .treatment-grid .treatment-item {width: 100%;height: 280px;}
+.treatment-grid.style-2 .treatment-item:nth-child(7n+2){width:100%}
+.treatment-grid.style-2 .treatment-item:nth-child(7n+3){width:100%}
+.blog-grid.style-1 .blog-item:nth-child(4n+2), .blog-grid.style-1 .blog-item:nth-child(4n+3) {width: 100%;}
+.treatment-grid.style-2 .treatment-item:nth-child(7n+5) {height: 280px;}
+.treatment-grid.style-2 .treatment-item {height: 280px;}
+.blog-grid.style-1 .blog-item:nth-child(4n+1), .blog-grid.style-1 .blog-item:nth-child(4n+4) {width: 100%;}
+.blog-grid .blog-item{height:280px;}
+.teams-grid .team-title {
+    font-size: 20px;
+}
+.content-sidebar .page-sidebar{width:100%;}
+.content-sidebar .primery-block{width:100%;}
+.team-single{display:block;padding: 20px;}
+.team-single .team-image{display:block;width:100%;height:auto;}
+.team-single .team-content {display: block;width: 100%;padding: 30px 0;}
+.team-single .team-name{font-size: 26px;    margin-bottom: 15px;}
+.team-single .team-content .team-category{font-size:16px;}
+.close-lighbox {width: 28px;height: 28px;}
+.team-pagination{bottom:14px;}
+.team-pagination span{font-size:14px;}
+.main-navigation {
+    width: 280px;
+    right: -280px;
+}
+.site-navigation .dropdown-menu {
+    font-size: 22px;
+    position: relative;
+    text-align: left;
+    height: auto;
+    background-color: transparent;
+    padding: 0;
+    width: 100%;
+	    right: 0;
+		display:none;
+}
+.open>.dropdown-menu {
+    right: 0;
+    left: 0;
+    display: block;
+}
+.policy-nav{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+}
+@media (max-width: 600px){
+body, .hero-section .hero-text, .contact-form .large-text{font-size:18px;}
+.hero-section .hero-heading, .h-title {font-size: 28px;}
+.hero-section .hero-logo {width: 120px;padding-bottom: 20px;}
+.contact-form .contact-heading, .blog-single .banner-heading .heading {font-size: 22px;}
+.large-text {font-size: 20px;}
+.contact-form .form-control, .form-field-row{font-size:16px;}
+.number-counter .count-text{font-size: 16px;}
+.number-box {width: 50%;}
+.home-services .service-item {min-height: 200px;width: 100%;}
+.home-services .service-title {font-size: 24px;padding: 25px;}
+.border-right{border:none;}
+.testimonial-block {margin: 0;}
+.testimonial-block.tes-style2{border-bottom:1px solid #ffffff;padding-bottom:15px;}
+.top-b-left .top-block, .top-b-left .top-block{float:none;}
+.top-bar{text-align: center;padding: 10px 0;}
+.copyright .copy-right, .top-b-right {width: 100%;text-align: center;margin-top: 10px;}
+.copyright .copy-left, .top-b-left {width: 100%;text-align: center;}
+.main-footer{padding:10px 0;}
+.top-bar-block{padding:0px;}
+.top-email, .top-phone{padding-left: 24px;background-size: 16px auto;}
+.top-email{margin-right:10px;}
+.top-b-left .top-block{margin-right:0px;font-size: 16px;}
+.section-heading{margin-bottom:35px;}
+.testimonial-block.tes-style1 .tes-item .tes-text, .testimonial-block.tes-style3 .tes-item .tes-text {font-size: 20px;}
+.testimonial-slider .slick-prev {left: 46%;transform: translate(46%, 0%);}
+.testimonial-slider .slick-next {left: auto;right: 46%;transform: translate(46%, 0%);}
+.large-heading, .section-heading.large-heading .heading, .large-title .h-title {
+    font-size: 30px;
+}
+.footer-widget {
+    display: block;
+    width: 100%;
+    float: none;
+}
+.page-menu li a {
+    font-size: 22px;
+}
+.page-menu li{padding:0 10px;}
+.vc_section.vc_section-has-fill, .vc_section.vc_section-has-fill+.vc_row-full-width+.vc_section, .vc_section.vc_section-has-fill+.vc_section {
+    padding-top: 30px;
+}
+.wpb_button, .wpb_content_element, ul.wpb_thumbnails-fluid>li {
+    margin-bottom: 25px;
+}
+.vc_section {
+    padding: 30px 0 5px 0;
+}
+.small-heading .h-title {
+    font-size: 24px;
+}
+.teams-grid .team-item {
+    width: 50%;
+}
+}
+@media (max-width:479px){
+#btt {width: 25px;height: 25px;bottom: 5px;right: 5px;}
+#btt .btt-btn {width: 25px;height: 25px;background-size: 25px auto;}
+.btn-block {max-width: 280px;}
+.btn-lg {font-size: 16px;letter-spacing: 1px;}
+.ul-services li {display: block;width: 100%;}
+.testimonial-slider .slick-prev {left: 42%;transform: translate(42%, 0%);}
+.testimonial-slider .slick-next {left: auto;right: 42%;transform: translate(42%, 0%);}
+.page-menu li {padding: 0 10px;width: 100%;border: none;}
+.banner-heading .heading{font-size:22px;}
+.banner-heading .heading {
+    font-size: 22px;
+}
+.banner-sheading {
+    font-size: 18px
+}
+.teams-grid .team-item {
+    width: 100%;
+}
+.approach-item{width: calc(100% + 40px);}
+.light-form {
+    padding: 0 10px;
+}
+}

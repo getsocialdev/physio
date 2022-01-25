@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("body").on("change",".ajax-post",function(){var n=jQuery(this).val();window.location=n})});
